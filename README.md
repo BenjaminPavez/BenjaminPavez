@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I am a fourth-year Computer Engineering student, passionate about how computers and programs work. My interest has driven me to constantly seek opportunities to apply my skills and knowledge in the real world. My determination and dedication make me a promising candidate in the field of software development.
+I am a fifth-year Computer Engineering student, passionate about how computers and programs work. My interest has driven me to constantly seek opportunities to apply my skills and knowledge in the real world. My determination and dedication make me a promising candidate in the field of software development.
 
 * 🌍  I'm based in Santiago de Chile
 * ✉️  You can contact me at [benjamin.pavez@usm.cl](mailto:benjamin.pavez@usm.cl)
